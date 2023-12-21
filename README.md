@@ -13,7 +13,7 @@ I wanted to have fun with this, so I made the eval function inspired by an rpg. 
 I hope you all like it!
 
 ## How to use
-Whichever bot you want to use, rename its folder to "My Bot", if you want to use any of the bots as the Evil Bot (opponent to test out the other on) rename its folder to "Evil Bot". Do not mix up the folders as an Evil Bot folder cannot act as My Bot and vice versa, if you ever forget which type it is just check the .cs file inside.
+Whichever bot you want to use, rename its My Bot folder to just "My Bot", if you want to use any of the bots as the Evil Bot (opponent to test out the other on) rename its Evil Bot folder to just "Evil Bot". Do not mix up the folders as an Evil Bot folder cannot act as My Bot and vice versa, if you ever forget which type it is just check the name of the .cs file inside. For comparison I have included the template MyBot and EvilBot's from Sebastian, as well as BoyChesser the winner of the competition.
 
 ## Changelog
 
